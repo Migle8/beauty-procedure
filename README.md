@@ -5,6 +5,7 @@
 - [Technologies](#technologies)
 - [Tools](#tools)
 - [Getting Started](#getting-started)
+- [Logi In](#log-in)
 
 ## Technologies
 
@@ -36,3 +37,14 @@ To run back -
 
 1. Go to the back directory, then initialize - npm i (npm install).
 2. Then run it with the commands - npm start
+
+
+## Log In
+
+Admin: 
+ email: admin@gmail.com
+ password: admin1234
+
+User:
+ email: user@gmail.com
+ password: user1234
